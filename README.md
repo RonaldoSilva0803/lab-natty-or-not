@@ -25,11 +25,13 @@ Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisicu
 ## 📒 Descrição
 
 ## Sobre o Projeto
-Este projeto utiliza a poderosa IA do Night Cafe para transformar desenhos infantis em imagens realistas. A inspiração veio de um desenho especial de uma flor feito pela minha filha, que quería trazer à vida de uma maneira única e tocante.
+Este projeto utiliza a poderosa IA do Night Cafe para transformar desenhos infantis em imagens realistas. A inspiração veio de
+um desenho especial de uma flor feito pela minha filha, que quería trazer à vida de uma maneira única e tocante.
 
 ## 🤖 Tecnologias Utilizadas
 
-Utilizamos a IA _Night Cafe_ para geração de modelos de IA para garantir que cada pétala, cor e forma seja convertida com precisão, preservando a emoção e a intenção por trás do desenho original.
+Utilizamos a IA _Night Cafe_ para geração de modelos de IA para garantir que cada pétala, cor e forma seja convertida com precisão,
+preservando a emoção e a intenção por trás do desenho original.
 
 ## 🧐 Processo de Criação
 Tendo o desenho da, fiz um upload e logo fui incerindo as descrições 
@@ -37,9 +39,11 @@ do resultado que desejaria alcançar e depos de alguns refinamentos em fim veio 
 
 ## 🚀 Resultados
 Apresente os resultados do seu projeto
-![Screenshot of a comment on a GitHub issue showing an image, added in the Markdown, of an Octocat smiling and raising a tentacle.](https://RonaldoSilva0803lab-natty-or-not/img/criado-por-AI.jpg)
+[Screenshot of a comment on a GitHub issue showing an image, added in the Markdown, of an Octocat smiling
+and raising a tentacle.](https://RonaldoSilva0803lab-natty-or-not/img/criado-por-AI.jpg)
 
-![Screenshot of a comment on a GitHub issue showing an image, added in the Markdown, of an Octocat smiling and raising a tentacle.](https://RonaldoSilva0803lab-natty-or-not/img/imagem-base.jpg)
+[Screenshot of a comment on a GitHub issue showing an image, added in the Markdown, of an Octocat smiling and
+raising a tentacle.](https://RonaldoSilva0803lab-natty-or-not/img/imagem-base.jpg)
 
 ## 💭 Reflexão (Opcional)
 Comente sobre o desafio de criar algo 'natty' com IA.
